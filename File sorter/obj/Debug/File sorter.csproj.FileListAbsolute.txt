@@ -1,0 +1,9 @@
+G:\Work\visual projects\File sorter\File sorter\bin\Debug\File sorter.exe.config
+G:\Work\visual projects\File sorter\File sorter\bin\Debug\File sorter.exe
+G:\Work\visual projects\File sorter\File sorter\bin\Debug\File sorter.pdb
+G:\Work\visual projects\File sorter\File sorter\obj\Debug\File sorter.csprojResolveAssemblyReference.cache
+G:\Work\visual projects\File sorter\File sorter\obj\Debug\File sorter.exe
+G:\Work\visual projects\File sorter\File sorter\obj\Debug\File sorter.pdb
+G:\Work\Github\FileSorter\File sorter\bin\Debug\File sorter.exe.config
+G:\Work\Github\FileSorter\File sorter\obj\Debug\File sorter.exe
+G:\Work\Github\FileSorter\File sorter\obj\Debug\File sorter.pdb

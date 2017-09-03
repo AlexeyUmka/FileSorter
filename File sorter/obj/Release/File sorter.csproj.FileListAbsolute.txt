@@ -1,0 +1,6 @@
+G:\Work\visual projects\File sorter\File sorter\bin\Release\File sorter.exe.config
+G:\Work\visual projects\File sorter\File sorter\bin\Release\File sorter.exe
+G:\Work\visual projects\File sorter\File sorter\bin\Release\File sorter.pdb
+G:\Work\visual projects\File sorter\File sorter\obj\Release\File sorter.csprojResolveAssemblyReference.cache
+G:\Work\visual projects\File sorter\File sorter\obj\Release\File sorter.exe
+G:\Work\visual projects\File sorter\File sorter\obj\Release\File sorter.pdb
